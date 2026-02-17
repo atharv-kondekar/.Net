@@ -1,0 +1,14 @@
+D:\dotnet\deligate\bin\Debug\net10.0\deligate.exe
+D:\dotnet\deligate\bin\Debug\net10.0\deligate.deps.json
+D:\dotnet\deligate\bin\Debug\net10.0\deligate.runtimeconfig.json
+D:\dotnet\deligate\bin\Debug\net10.0\deligate.dll
+D:\dotnet\deligate\bin\Debug\net10.0\deligate.pdb
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.AssemblyInfoInputs.cache
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.AssemblyInfo.cs
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.csproj.CoreCompileInputs.cache
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.dll
+D:\dotnet\deligate\obj\Debug\net10.0\refint\deligate.dll
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.pdb
+D:\dotnet\deligate\obj\Debug\net10.0\deligate.genruntimeconfig.cache
+D:\dotnet\deligate\obj\Debug\net10.0\ref\deligate.dll

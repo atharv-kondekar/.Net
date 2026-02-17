@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "deligate": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
