@@ -1,0 +1,7 @@
+D:\ADS\Day02\Exp_05\Exp_05\bin\Debug\Exp_05.exe.config
+D:\ADS\Day02\Exp_05\Exp_05\bin\Debug\Exp_05.exe
+D:\ADS\Day02\Exp_05\Exp_05\bin\Debug\Exp_05.pdb
+D:\ADS\Day02\Exp_05\Exp_05\obj\Debug\Exp_05.csproj.AssemblyReference.cache
+D:\ADS\Day02\Exp_05\Exp_05\obj\Debug\Exp_05.csproj.CoreCompileInputs.cache
+D:\ADS\Day02\Exp_05\Exp_05\obj\Debug\Exp_05.exe
+D:\ADS\Day02\Exp_05\Exp_05\obj\Debug\Exp_05.pdb
