@@ -1,0 +1,7 @@
+D:\ADS\Day02\exp.04\exp.04\bin\Debug\exp.04.exe.config
+D:\ADS\Day02\exp.04\exp.04\bin\Debug\exp.04.exe
+D:\ADS\Day02\exp.04\exp.04\bin\Debug\exp.04.pdb
+D:\ADS\Day02\exp.04\exp.04\obj\Debug\exp.04.csproj.AssemblyReference.cache
+D:\ADS\Day02\exp.04\exp.04\obj\Debug\exp.04.csproj.CoreCompileInputs.cache
+D:\ADS\Day02\exp.04\exp.04\obj\Debug\exp.04.exe
+D:\ADS\Day02\exp.04\exp.04\obj\Debug\exp.04.pdb
